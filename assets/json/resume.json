@@ -314,7 +314,19 @@
       "startDate": "2018-01-01",
       "endDate": "2024-04-01",
       "url": "https://www.sname.org/membership/member-resources/trcommittees"
-    }  
+    } ,
+    {
+      "name": "SailBOT @ Virginia Tech",
+      "position": "Project Manager (Commodore)",
+      "summary": "I have been an active contributor to various technical and research committees within the society over the years.",
+      "highlights": [
+        "Directed the development of a 2-meter class fully autonomous sailboat to compete in the annual International Robotic Sailing Regatta.",
+        "Grew the team’s size (27 -> 40) and budget ($25k -> $30k), negotiated for academic credit and research opportunities, increased sponsorship and community outreach participation, implemented documentation procedures, and redesigned the leadership structure."
+      ],
+      "startDate": "2013-08-01",
+      "endDate": "2016-06-01",
+      "url": "https://www.sailbot.aoe.vt.edu/"
+    }    
   ],
   "languages": [
     {
