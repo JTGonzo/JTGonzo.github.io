@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jose Gonsalves",
-    "label": "Graduate Research Assistant",
+    "label": "Naval Architect | Simulation Engineer",
     "image": "",
     "email": "josetg@vt.edu",
     "phone": "(604) 842-8917",
     "url": "https://cml.mech.ubc.ca/resources/",
-    "summary": "Excited to begin a new chapter and seeking opportunities either in engineering software development/integration (digital twins, ROMs, etc.) or as a senior technical engineer within the commercial maritime sector",
+    "summary": "Excited to begin a new chapter and seeking opportunities either in engineering software development/integration (digital twins, ROMs, etc.) or as a senior technical engineer within the commercial maritime sector.",
     "location": {
       "address": "6250 Applied Science Ln",
       "postalCode": "V6T 1Z4",
@@ -40,7 +40,7 @@
       "area": "Mechanical Engineering",
       "studyType": "MSc.",
       "startDate": "2020-09-01",
-      "endDate": "2024-04-10",
+      "endDate": "2023-12-20",
       "score": "3.9"
     }    
   ],  
@@ -289,23 +289,9 @@
       "startDate": "2018-01-01",
       "endDate": "2024-04-01",
       "url": "https://www.sname.org/membership/member-resources/trcommittees"
-    },
-    {
-      "name": "Team Bachannal, TTPBA",
-      "position": "Marine Engineer Trainee",
-      "summary": "Hands on engineering hobby project taken on before starting my graduate studies.",
-      "highlights": ["Generated engineering drawings and hull models; inventoried, tracked, and ordered system resources/components; maintained equipment; troubleshot systems; and helped rig and repair the vessel in preparation for and throughout the 95mph-class racing season"],
-      "startDate": "2019-08-01",
-      "endDate": "2020-03-01",
-      "url": "https://www.thettpba.com/bachannal"
-    }    
+    },  
   ],
   "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Intermediate",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Native speaker",
