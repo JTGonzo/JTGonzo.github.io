@@ -122,7 +122,7 @@
     }, 
     {
       "name": "Tsunami Marine Limited",
-      "position": "Naval Architecture Intern and Extern",
+      "position": "Naval Architect Intern and Extern",
       "location": "Trinidad and Tobago",     
       "url": "https://tsunamimarine.com/",
       "startDate": "2014-04-01",
@@ -201,6 +201,7 @@
         "Calculix",
         "Abaqus",
         "Maestro Marine",
+        "FEMAP",
         "Creo Simulation"
       ]
     },
@@ -212,7 +213,7 @@
         "Kratos Multiphysics",
         "SimFlow",
         "Comsol",
-        "Simcenter",
+        "SimScale",
         "LS-DYNA",
         "preCICE"
       ]
@@ -267,8 +268,7 @@
         "ModelCenter",
         "Simulink",
         "LabVIEW",
-        "Grasshopper",
-        "QGIS"
+        "Grasshopper"
       ]
     },
     {
@@ -277,8 +277,10 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "GMSH",
+        "Pointwise",
         "Paraview",
         "Tecplot",
+        "SALOME",
         "GiD"
       ]
     }
@@ -312,21 +314,30 @@
         " <a href='https://www.sname.org/committee/c0c2ed1d-f7ce-48f9-9e9d-90dc3e0374dd'> SD-5: Advanced Marine Vehicles </a>"
       ],
       "startDate": "2018-01-01",
-      "endDate": "2024-04-01",
+      "endDate": "2024-10-30",
       "url": "https://www.sname.org/membership/member-resources/trcommittees"
     } ,
     {
       "name": "SailBOT @ Virginia Tech",
       "position": "Project Manager (Commodore)",
-      "summary": "I have been an active contributor to various technical and research committees within the society over the years.",
+      "summary": "Directed the development of a 2-meter class fully autonomous sailboat to compete in the annual International Robotic Sailing Regatta.",
       "highlights": [
-        "Directed the development of a 2-meter class fully autonomous sailboat to compete in the annual International Robotic Sailing Regatta.",
         "Grew the team’s size (27 -> 40) and budget ($25k -> $30k), negotiated for academic credit and research opportunities, increased sponsorship and community outreach participation, implemented documentation procedures, and redesigned the leadership structure."
       ],
       "startDate": "2013-08-01",
       "endDate": "2016-06-01",
       "url": "https://www.sailbot.aoe.vt.edu/"
-    }    
+    } ,
+    {
+      "name": "Future Guided Missile Trimaran Corvette Design Team",
+      "position": "Team Member",
+      "summary": "Presented our work to DOD stakeholders and won an honorable mention in the Lisnyk ship design competition.",
+      "highlights": [
+        "Detailed concept exploration and development engaging the full design spiral from PSO informed hullform selection to lifecycle cost and risk analyses."
+      ],
+      "startDate": "2015-08-30",
+      "endDate": "2016-06-16",
+    }   
   ],
   "languages": [
     {
