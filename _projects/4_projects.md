@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interface gradient approximation
-description: A ROM for prediciton interface motions
+description: A ROM for predicitng the motion of FSI interfaces
 img: assets/img/taylor_expans.jpg
 importance: 4
 category: work
