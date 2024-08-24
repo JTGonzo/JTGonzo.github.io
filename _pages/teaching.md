@@ -29,7 +29,7 @@ Below are some of the most recent courses that I have supported as a teaching as
 </tr>
 <tr>
     <td> Introduction to Statistical Inference  </td>
-    <td> <a href="https://vancouver.calendar.ubc.ca/course-descriptions/courses/stat-305-introduction-statistical-inference" target="_blank">STAT 305</a> </td>
+    <td> <a href="https://www.stat.ubc.ca/course/2023/summer/stat-305-introduction-statistical-inference" target="_blank">STAT 305</a> </td>
     <td> TA  </td>
     <td> Summer II 2021 </td>
 </tr>
@@ -41,7 +41,7 @@ Below are some of the most recent courses that I have supported as a teaching as
 </tr>
 <tr>
     <td> Physics Laboratory for Engineers</td>
-    <td>  <a href="https://vancouver.calendar.ubc.ca/course-descriptions/subject/phys" target="_blank">PHYS 159</a> </td>
+    <td>  <a href="https://vancouver.calendar.ubc.ca/course-descriptions/subject/physv" target="_blank">PHYS 159</a> </td>
     <td>  Senior TA </td>
     <td> Spring 2023  </td>
 </tr>
