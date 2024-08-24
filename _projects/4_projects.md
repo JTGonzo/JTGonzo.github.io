@@ -2,7 +2,7 @@
 layout: page
 title: Interface gradient approximation
 description: A ROM for prediciton interface motions
-img: assets/img/fsi_interface.png
+img: assets/img/taylor_expans.png
 importance: 4
 category: work
 ---
