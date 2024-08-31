@@ -89,7 +89,8 @@
       "startDate": "2024-01-01",
       "endDate": "2024-08-30",
       "highlights": [
-        "Provided technical support running simulations and developing toolboxes within the OpenFAST ecosystem as part of a wider feasibility study project involving semi-submersible FOWTs operating in the challenging (rough sea state, icy conditions) North Atlantic environment. Multiphysical operations and mooring analyses included coupled aero, hydro, and structural dynamics effects."
+        "Coordinated project deliverables for and provided simulation support (dynamic loading, mooring arrangements) to energy services clients developing semi-submersible wind turbine pilot projects aimed at decarbonizing the North Atlantic’s offshore oil sector.",
+        "Developed toolboxes within the OpenFAST ecosystem to couple new state of the art physics modules to the established legacy solvers to more accuractely study the interacting aero, hydro, and structural dynamics of marine systems operating in teh aforementioned uniquely challening (rough sea state, icy conditions) floating  environment."
       ]
     },     
     {
@@ -100,7 +101,7 @@
       "startDate": "2017-04-01",
       "endDate": "2019-07-30",
       "highlights": [
-        "Developed GLMs for bulk carrier loading ops and analyzed multi-body interactions during dry-dockings and load-offs using GHS.",
+        "Developed GLMs for tanker loading ops and analyzed multi-body interactions during vessel dry-dockings and load-offs using GHS",
         "Developed conversion concepts through to regulatory type approval (synthesizing class rules, generating renderings, performing calcs, projecting feasibility, producing drawings and arrangements), including an OSV to both an LNG Tanker and a WT Installation Vessel.",
         "Lead NETSCo’s engineering, coordination, technology development, and patent filing efforts in tandem with various industry partners (owners, operators, scientist, regulatory bodies, and community representatives) to bring a feasible BWMS to the Great Lakes. ",
         "Performed structural analysis studies using Creo Simulate and ATB configuration optimization studies using Simerics MP+."
@@ -130,7 +131,7 @@
       "highlights": [
         "Participated in 3 ISM Code and SMS workshops and assisted in CMID and OVID Audits onboard 10 offshore supply vessels.",
         "Audited FSS and drafted Fire Control Plans for over 10 vessels of varying classification per the amended SOLAS regulations.",
-        "Performed detailed fire damage inspections, operations audits, cost estimates, and reconstruction recommendations for 4 gutted ships, summarizing them into technical reports on behalf of vessel owners/operators to be used for insurance claims upward of $2M."
+        "Performed claims driven fire damage inspections, operations audits, cost estimates, and reconstruction recommendations for 4 gutted ships."
       ]
     }
   ],  
